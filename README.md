@@ -135,11 +135,13 @@ Supported Units
 * mm
 * um
 * nm
+* pm
 * cm
 * m
 * in
 * uin
 * nin
+* pin
 * ft-us
 * ft
 * fathom
